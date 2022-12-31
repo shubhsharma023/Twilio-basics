@@ -12,6 +12,7 @@ This App takes a phone number as an input, calls them (as programmed by you) and
 
 - Open the `main.cs` file and add the dependencies using `dotnet add package twilio` (**this step is must**).
 - You can customize the API using the following commands given below :
+- Add your SID and Authorised token in main.cs.
 - Use `dotnet run` command to execute the program.
 
 ## To send custom message
