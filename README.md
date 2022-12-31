@@ -10,7 +10,7 @@ Twilio provides programmable communication tools for making and receiving phone 
 
 This App takes a phone number as an input, calls them (as programmed by you) and rick rolls them using Twilio Voice.
 
-- Use you text editor for performing in your local machine or use [Replit](https://replit.com/) for running online.
+- Use you text editor to performing in your local machine or use [Replit](https://replit.com/) for running online.
 - Open the `main.cs` file and add the dependencies using `dotnet add package twilio` (**this step is must**).
 - You can customize the API using the following commands given below :
 - Add your SID and Authorised token to main.cs.
