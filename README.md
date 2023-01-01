@@ -6,7 +6,7 @@ Twilio provides programmable communication tools for making and receiving phone 
 <br>
 <br>
 
-> We will create this programmable service using .NET MAUI and Twilio API and it is also important for you to create [Twilio](https://www.twilio.com/try-twilio) account and use these [docs](https://www.twilio.com/docs) to create our service.
+> We will create this programmable service using .NET MAUI and Twilio API and it is also important for you to create [Twilio](https://www.twilio.com/try-twilio) account and use these [docs](https://www.twilio.com/docs) to create the service.
 
 This App takes a phone number as an input, calls them (as programmed by you) and rick rolls them using Twilio Voice.
 
